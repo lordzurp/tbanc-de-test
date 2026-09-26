@@ -1,0 +1,7 @@
+{
+  "_schema": "lcars/declaration",
+  "declared_at": "2026-09-26",
+  "declared_by": "starfleet",
+  "justification": "Banc de validation : un seul producteur, pas de jury. L'erreur ne coûte rien.",
+  "pipeline_default": "quick-fix"
+}
