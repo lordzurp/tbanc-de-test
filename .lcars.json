@@ -2,6 +2,6 @@
   "_schema": "lcars/declaration",
   "declared_at": "2026-09-26",
   "declared_by": "starfleet",
-  "justification": "Banc de validation : un seul producteur, pas de jury. L'erreur ne coûte rien.",
-  "pipeline_default": "quick-fix"
+  "justification": "Passage sur la carte par défaut « standard » pour valider la chaîne complète : relecture de la demande, relecture du code et CI.",
+  "pipeline_default": "standard"
 }

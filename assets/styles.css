@@ -32,7 +32,7 @@ body {
   padding: 3rem 1.5rem;
 }
 
-.page-en-tete h1 { margin: 0 0 .25rem; font-size: 2rem; line-height: 1.2; }
+.page-en-tete h1 { margin: 0 0 .25rem; font-size: 2rem; line-height: 1.2; text-align: center; }
 .accroche { margin: 0; color: var(--accent); }
 
 .page-corps { margin: 2.5rem 0; }
